@@ -1,2 +1,4 @@
 # hello-world
-A repo for practice tasks
+About me
+
+Hope to learn something, to keep up motivation.
